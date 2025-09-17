@@ -83,6 +83,6 @@
   "Torisetsu",
   "I remember",
   "Fluorite Eyes Song"
-  "BENNETT Vois sur ton chemin"
+  "BENNETT"
 
 }
