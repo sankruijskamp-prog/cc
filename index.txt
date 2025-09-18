@@ -83,6 +83,7 @@
   "Torisetsu",
   "I remember",
   "Fluorite Eyes Song",
-  "BENNETT"
+  "BENNETT".
+  "perfection"
 
 }
