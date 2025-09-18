@@ -87,6 +87,11 @@
   "perfection",
   "SOS",
   "dickhead",
-  "Golden"
+  "Golden",
+  "Mongol",
+  "RATATATA",
+  "Wonderwall",
+  "OTM",
+  "Tokyo Drift"
 
 }
