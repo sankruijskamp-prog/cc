@@ -84,6 +84,7 @@
   "I remember",
   "Fluorite Eyes Song",
   "BENNETT".
-  "perfection"
+  "perfection",
+  "SOS"
 
 }
