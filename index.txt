@@ -92,6 +92,14 @@
   "RATATATA",
   "Wonderwall",
   "OTM",
-  "Tokyo Drift"
+  "Tokyo Drift",
+  "Thunder",
+  "GANGNAM STYLE",
+  "Lean On",
+  "Somebody That I Used To Know",
+  "Dance Monkey",
+  "Human",
+  "Cheap Thrills",
+  "Albatraoz"
 
 }
