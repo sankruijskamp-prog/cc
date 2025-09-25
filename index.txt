@@ -101,6 +101,12 @@
   "Human",
   "Cheap Thrills",
   "Albatraoz",
-  "Albatraoz Again"
+  "Albatraoz Again",
+  "Down Under",
+  "Bling Bang",
+  "Usseewa",
+  "AUSSIE",
+  "My Life Is A Party",
+  "Written in my face"
 
 }
